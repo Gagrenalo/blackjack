@@ -1,0 +1,7 @@
+Das Udp Protokoll hat keine eingebauten sicherheiten um zu garantieren, dass die pakete auch ankommen. Im beispiel des Blackjack programms wäre eine primitive art und weise nicht erreichte pakete aufmerksam zu machen, den jeweiligen partner zu informieren dass nix ankam basierend auf erwarteten paketen.Daraufhin kann es nochmal versendet werden.
+
+Eine fehlerhafter Kommunikation kann nur garantiert werden, wenn sich auf ein standard geeinigt wird um auf den selben Nenner zu kommen in Bezug davon was sich in den gesendeten Paketen enthält und was zu erwarten ist. Dies gilt für Fehlkommunikation und Interpretation gleichermaßen. Nur mit einheintlicher verständnis und klarer planung ist dies möglich!
+
+Verschiedene Problematiken können sehr schnell auftreten wie in aufgabe 4 sichtbar, dass alle gültig interpretierbaren nachrichten nicht versendet werden aufgrund von blockaden durch andere standards. (/User command not found z.b. obwohl server das verarbeiten kann)
+
+Im allgemeinen ist einigung in der kommunikation das wichtigste.
